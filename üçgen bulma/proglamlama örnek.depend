@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666900326 source:c:\users\selimhan\desktop\deneme_c\proglamlama örnek\main.c
+	<stdio.h>
+	<stdlib.h>
+
